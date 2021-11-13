@@ -16,3 +16,5 @@ virtualenv==20.8.1
 virtualenv-clone==0.5.7
 virtualenvwrapper==4.8.4
 virtualenvwrapper-win==1.2.6
+urllib3==1.26.7
+urllib3==1.25.10
